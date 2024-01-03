@@ -91,9 +91,9 @@ This timer has three operating modes :
  - Delayed mode
  - Scheduled mode
 
-***Note : The outputs are selected using keys 1 to 4.*
+**Note : The outputs are selected using keys 1 to 4.*
 
-***The days are selected using keys 0 to 7. Key 0 corresponds to 'all days of the week'. Key 1 corresponds to Sunday and 
+**The days are selected using keys 0 to 7. Key 0 corresponds to 'all days of the week'. Key 1 corresponds to Sunday and 
 so on until key 7 which corresponds to Saturday.*
 
 How do you select the mode? In fact, strictly speaking, there is no mode selection. It all depends on what 
@@ -143,7 +143,7 @@ Generally speaking, the sequence of actions for the creation of an order in any 
  - Time entry (optional)
  - Order selection [ON, OFF, HOUR] (mandatory)
 
-***Note that the time may not have been entered even though the day of the week is entered and therefore 
+**Note that the time may not have been entered even though the day of the week is entered and therefore 
 it should be the programmed mode. In this case, the time will be automatically recorded at 00h 00m 00s.*
 
 **Other considerations regarding the operation of this timer**

@@ -95,6 +95,7 @@ How do you select the mode? In fact, strictly speaking, there is no mode selecti
 information you enter before selecting the order type (ON; OFF; HOUR)
 
 If you only select output, you are in direct mode. 
+
 I.E. if you press the following keys successively
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8cff1920-ca9d-48a6-8c01-73eb0f601cba)

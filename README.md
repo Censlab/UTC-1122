@@ -39,5 +39,6 @@ shutters in a greenhouse, or any device whose operation is not managed by a stop
 'blocked' operation for a few moments.
 
 I therefore developed a timer that is easy and intuitive to use but much more universal than the circuit originally 
-produced by Texas Instrument.
+produced by Texas Instrument thanks to the addition of a very precise real-time clock circuit and the ability to 
+program down to the second..
 

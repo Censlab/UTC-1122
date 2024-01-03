@@ -71,3 +71,5 @@ The contacts of each relay are available on a connector whose pinout is as follo
 - C  - Common contact
 - NC - Normally closed. Connect your device between this terminal and terminal 'C' to obtain ON > OFF operation 
 ```
+
+Finally, here is what this timer looks like once assembled.

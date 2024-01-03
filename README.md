@@ -100,7 +100,7 @@ information you enter before selecting the order type (ON; OFF; HOUR)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/7e120e04-4983-408a-8d45-c449aa66dc3f)
 
-Output #1 goes ON
+Output #1 goes ON.
 
 **Now, if you also type a time, you switch to delayed mode.**
 
@@ -113,7 +113,7 @@ Output #1 goes ON
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/41ea9db0-98aa-4b7b-b24f-7e93899e9f11)
 
-Output #2 goes OFF in one hour 00mn 00s
+Output #2 goes OFF in one hour 00mn 00s.
 
 **Finally, if in addition to the time, you also enter a day, you automatically enter to the programmed mode.**
 
@@ -131,3 +131,12 @@ Output #2 goes OFF in one hour 00mn 00s
 
 Output #3 will operate for one hour every Monday from 12:15 p.m.
 
+Generally speaking, the sequence of actions for the creation of an order in any mode should be done as follows:
+
+ - Output selection (mandatory)
+ - Selection of day of the week (optional)
+ - Time entry (optional)
+ - Order selection [ON, OFF, HOUR] (mandatory)
+
+*Note that the time may not have been entered even though the day of the week is entered and therefore 
+it should be the programmed mode. In this case, the time will be automatically recorded at 0h 0m 0s*

@@ -139,4 +139,15 @@ Generally speaking, the sequence of actions for the creation of an order in any 
  - Order selection [ON, OFF, HOUR] (mandatory)
 
 ***Note that the time may not have been entered even though the day of the week is entered and therefore 
-it should be the programmed mode. In this case, the time will be automatically recorded at 0h 0m 0s*
+it should be the programmed mode. In this case, the time will be automatically recorded at 00h 00m 00s*
+
+**Other considerations regarding the operation of this timer**
+
+In order to avoid tedious entry of an order which should be repeated every day, there is a day called 
+'EDAY' which allows you to program an event which must be repeated throughout the week.
+
+Yes, but what if we don't want this order to be executed on Sunday?
+
+In this case, simply schedule a 'cancellation order' on Saturday at the same time, in other words, an OFF order. 
+The OFF order has priority over ON and HOUR. Therefore, the ON order of all days will be canceled by the 
+OFF order of Saturday at the same time.

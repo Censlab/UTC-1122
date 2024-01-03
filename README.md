@@ -42,3 +42,8 @@ I therefore developed a timer that is easy and intuitive to use but much more un
 produced by Texas Instrument thanks to the addition of a very precise real-time clock circuit and the ability to 
 program down to the second..
 
+## what is UTC 1122 made of?
+
+Technically, this timer is made up of three elements. First the front. I designed it to keep the purest 80s design 
+while trying to make it compact but elegant. I think I got there.
+

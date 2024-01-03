@@ -79,6 +79,6 @@ any exchange with a computer. It is also possible to supply the power through a 
 in this case to respect the polarities as indicated on the printed circuit board. An incorrect connection will destroy 
 the fuse and could potentially cause damage to the device.**
 
-Finally, here is what this timer looks like once assembled.
+## Finally, here is what this timer looks like once assembled.
 
 ![UTC1122 ASSEMBLED](/images/UTC1122-Assembled.png)

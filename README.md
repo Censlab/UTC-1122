@@ -73,3 +73,5 @@ The contacts of each relay are available on a connector whose pinout is as follo
 ```
 
 Finally, here is what this timer looks like once assembled.
+
+![UTC1122 ASSEMBLED](/images/UTC1122-Assembled.jpg)

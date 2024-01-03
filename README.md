@@ -92,6 +92,7 @@ This timer has three operating modes :
  - Scheduled mode
 
 ***Note : The outputs are selected using keys 1 to 4.*
+
 ***The days are selected using keys 0 to 7. Key 0 corresponds to 'all days of the week'. Key 1 corresponds to Sunday and 
 so on until key 7 which corresponds to Saturday.*
 

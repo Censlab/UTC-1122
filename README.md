@@ -113,4 +113,18 @@ Output #1 goes ON
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/41ea9db0-98aa-4b7b-b24f-7e93899e9f11)
 Output #2 goes OFF in one hour
 
+**Finally, if in addition to the time, you also enter a day, you automatically enter the programmed mode.**
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/930a0b77-24d9-4340-837b-29d8d2f37c55)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/674be27d-9911-46e6-96ac-4ab449efa308)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/8cff1920-ca9d-48a6-8c01-73eb0f601cba)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/674be27d-9911-46e6-96ac-4ab449efa308)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/8cff1920-ca9d-48a6-8c01-73eb0f601cba)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/0d70a7df-07fc-422b-b2a9-5052abd28470)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/fde52580-2f6e-48f5-aa81-324a83c8dfe9)
+Output #3 will operate for one hour every Monday from 12:15 p.m.
 

@@ -47,7 +47,7 @@ program down to the second..
 Technically, this timer is made up of three elements. First the front panel plate. I designed it to keep the purest 
 80s design while trying to make it compact but elegant. I think I got there.
 
-![UTC1122 FRONTAL](/images/Front-Case-3d.png)
+![UTC1122 FRONTAL CASE](/images/Front-Case-3d.png)
 
 This front panel is directly compatible with Eurorack type boxes, which can facilitate the integration of this timer
 by using a rack easily available commercially.
@@ -56,5 +56,5 @@ The second element is the user interface circuit board as shown with the very fi
 the heart of the clock with the database containing the program steps, the management of the display and the keys, 
 as well as the management of command orders intended for the third element, the printed circuit of the inputs/outputs.
 
-![UTC1122 FRONTAL](/images/IO-3d.png)
+![UTC1122 IO](/images/IO-3D.png)
 

@@ -85,3 +85,9 @@ the fuse and could potentially cause damage to the device.**
 
 ## And now how does it work?
 
+This timer has three operating modes :
+
+ - Direct mode
+ - Delayed mode
+ - Scheduled mode
+

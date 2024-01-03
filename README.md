@@ -44,8 +44,9 @@ program down to the second..
 
 ## what is UTC 1122 made of?
 
-Technically, this timer is made up of three elements. First the front panel plate. I designed it to keep the purest 
-80s design while trying to make it compact but elegant. I think I got there.
+Technically, this timer is made up of three elements. 
+First the front panel plate. I designed it to keep the purest 80s design while trying to make it compact but elegant. 
+I think I got there.
 
 ![UTC1122 FRONTAL CASE](/images/Front-Case-3d.png)
 
@@ -62,7 +63,8 @@ This circuit contains the four output relays, two communication connectors (for 
 supply module as well as an 18650 type battery holder ensuring in the worst case three days of autonomy for the system 
 provided that the display has been placed in minimal mode (automatically or with the EXT key).
 
-  **It is strongly recommended not to connect directly devices with a power greater than ~150W, i.e. 1.3A at 110Vac or 0.7A at 230Vac.**
+  **It is strongly recommended not to connect directly devices with a power greater than ~150W, i.e. 1.3A at 110Vac or 
+  0.7A at 230Vac.**
 
 If more power is needed, use external power relays which will be controlled by the relays on this circuit board.
 The contacts of each relay are available on a connector whose pinout is as follows:

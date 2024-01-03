@@ -56,3 +56,5 @@ The second element is the user interface circuit board as shown with the very fi
 the heart of the clock with the database containing the program steps, the management of the display and the keys, 
 as well as the management of command orders intended for the third element, the printed circuit of the inputs/outputs.
 
+![UTC1122 FRONTAL](/images/IO-3d.png)
+

@@ -185,5 +185,5 @@ In this case, output four is assumed to be active every weekday at 12:15 p.m. fo
 order requires that on Sunday, this same output be positioned OFF at the same time. The result is 
 that output four will not trigger on Sunday at 12:15 p.m.
 
-### Visualization of orders (steps) recorded in the database.
+### viewing and deleting orders (steps) recorded in the database.
 

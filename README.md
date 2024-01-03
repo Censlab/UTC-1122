@@ -126,6 +126,5 @@ Output #2 goes OFF in one hour
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/339ce3be-a066-4c8c-af4e-7d8ac185dc9d)
-
 Output #3 will operate for one hour every Monday from 12:15 p.m.
 

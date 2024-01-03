@@ -82,3 +82,6 @@ the fuse and could potentially cause damage to the device.**
 ## Finally, here is what this timer looks like once assembled.
 
 ![UTC1122 ASSEMBLED](/images/UTC1122-Assembled.png)
+
+## And now how does it work?
+

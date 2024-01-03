@@ -66,8 +66,8 @@ provided that the display has been placed in minimal mode (automatically or with
 
 If more power is needed, use external power relays which will be controlled by the relays on this circuit board.
 The contacts of each relay are available on a connector whose pinout is as follows:
-```
+`
 - NO - Normally open. Connect your device between this terminal and terminal 'C' to obtain ON > ON operation 
 - C  - Common contact
 - NC - Normally closed. Connect your device between this terminal and terminal 'C' to obtain ON > OFF operation 
-```
+`

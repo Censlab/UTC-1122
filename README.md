@@ -97,3 +97,4 @@ information you enter before selecting the order type (ON; OFF; HOUR)
 If you only select output, you are in direct mode. I.E.
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8cff1920-ca9d-48a6-8c01-73eb0f601cba)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)

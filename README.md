@@ -35,7 +35,7 @@ for example.
 
 I also wanted to use this type of timer for semi-industrial tasks. That is to say tasks which do not require real 
 time or complex processes but whose operating time is significant. For example the management of openings or light 
-shutters in a greenhouse, or any device whose operation is not managed by a stop switch but which only supports 
+shutters in a greenhouse, or any devices whose operation is not managed by a stop switch but which only supports 
 'blocked' operation for a few moments.
 
 I therefore developed a timer that is easy and intuitive to use but much more universal than the circuit originally 

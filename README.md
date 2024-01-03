@@ -138,5 +138,5 @@ Generally speaking, the sequence of actions for the creation of an order in any 
  - Time entry (optional)
  - Order selection [ON, OFF, HOUR] (mandatory)
 
-**Note that the time may not have been entered even though the day of the week is entered and therefore 
+***Note that the time may not have been entered even though the day of the week is entered and therefore 
 it should be the programmed mode. In this case, the time will be automatically recorded at 0h 0m 0s*

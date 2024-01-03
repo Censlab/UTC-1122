@@ -58,3 +58,15 @@ as well as the management of command orders intended for the third element, the 
 
 ![UTC1122 IO](/images/IO-3D.png)
 
+This circuit contains the four output relays, two communication connectors (for future use) an uninterruptible power 
+supply module as well as an 18650 type battery holder ensuring in the worst case three days of autonomy for the system 
+provided that the the display has been placed in minimal mode (automatically or with the EXT key).
+
+  ## It is strongly recommended not to connect directly devices with a power greater than 360W, i.e. 3.3A at 110Vac or 1.5A at 230Vac.
+
+If more power is needed, use external power relays which will be controlled by the relays on this circuit board.
+The contacts of each relay are available on a connector whose pinout is as follows:
+
+  NO - Normally open. Connect your device between this terminal and terminal 'C' to obtain ON -> ON & OFF -> OFF operation 
+  C  - Common contact
+  NC - Normally closed. Connect your device between this terminal and terminal 'C' to obtain ON -> OFF & OFF -> ON operation 

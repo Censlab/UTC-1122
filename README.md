@@ -96,16 +96,12 @@ information you enter before selecting the order type (ON; OFF; HOUR)
 
 **If you only select output, you are in direct mode.**
 
-I.E. if you press the following keys successively
-
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8cff1920-ca9d-48a6-8c01-73eb0f601cba)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/7e120e04-4983-408a-8d45-c449aa66dc3f)
 Output #1 goes ON
 
-Now, **if you also type a time, you switch to delayed mode.**
-
-I.E.
+**Now, if you also type a time, you switch to delayed mode.**
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/674be27d-9911-46e6-96ac-4ab449efa308)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)

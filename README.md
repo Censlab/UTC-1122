@@ -111,7 +111,7 @@ Output #1 goes ON
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/8075a76c-78f5-4c7e-b008-7ec9e8b8a47e)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/41ea9db0-98aa-4b7b-b24f-7e93899e9f11)
-Output #2 goes OFF in one hour
+Output #2 goes OFF in one hour 00mn 00s
 
 **Finally, if in addition to the time, you also enter a day, you automatically enter the programmed mode.**
 

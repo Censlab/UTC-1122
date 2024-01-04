@@ -187,3 +187,13 @@ that output four will not trigger on Sunday at 12:15 p.m.
 
 ### Viewing and deleting orders (steps) recorded in the database.
 
+Displaying all the steps programmed for a given output is very simple. Start by selecting the output 
+concerned then press the OUT key in sequence to view the steps one after the other. A blank display 
+indicates that you have reached the end of the steps recorded for this outing. Press CLK to exit the mode.
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/cddd5446-0e74-47b1-ad86-2cac9430faac)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)

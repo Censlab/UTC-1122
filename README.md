@@ -305,12 +305,12 @@ This device is made up of two specialized electronic boards. The GERBERS files f
 available in the repository. The front panel Gerber file is also available.
 
 These two boards are based on RISC-V processors. These processors can be programmed using a specific 
-dongle that can be found inexpensively on the Internet.
+dongle that can be found inexpensively on the Internet:
 
 ![WCH LINK](/images/WCH-Link.png)
 
 The WCH-LinkE dongle is not needed here. Each electronic board has a location for a dongle connection header. 
-Simply connect the three signals GND, SWDIO and SWCLK. 
+Simply connect the three signals GND, SWDIO and SWCLK to the dongle and you are ready. 
 
 The programming files for both boards in HEX format are also provided in the repository.
 

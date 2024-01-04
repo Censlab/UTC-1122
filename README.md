@@ -285,3 +285,16 @@ battery life.
 
 A flash with a sequence of less than 4 flashes therefore indicates either a problem with the battery manager 
 or with the battery, or an absence of 5V power to the timer.
+
+## Final word on how this timer works.
+
+What is interesting about this device is that the way you learn how to operate is based on a few simple 
+instructions that you just need to remember. In fact, a few minutes and a few manipulations allow you 
+to understand how it works. 
+
+Its operation is based on a few reflex gestures to adopt.It is therefore neither necessary to think about 
+how the device works each time you want to use it, nor to struggle with options hidden in complex submenus. 
+It is also not necessary to always have the user manual nearby. 
+
+Before putting this UTC1122 timer into production, handle it, make mistakes and understand them. 
+The UTC1122 will not fail (at least I hope so, I programmed it for that).

@@ -263,6 +263,25 @@ deletion. Messages shown on the display guide you through this process.**_
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/5c08de9b-a2d2-4804-9729-5356f51f5c3a)
 
-the EXT key is used to place the display in minimal mode. In this case, only two segments of the display as well 
+The EXT key is used to place the display in minimal mode. In this case, only two segments of the display as well 
 as the battery status are shown. 
 ***It is therefore important in this case to place the clock in normal display using the CLK key to view the real state of the outputs.**
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/1a122b0c-c010-4b3a-85cd-8afc59fbf151)
+
+The FUNC key has no function at the moment.
+
+### Battery operation
+
+The power status is always indicated on the blue 'BAT' LED. The blue LED always on is the normal power state. 
+When the blue LED flashes, this indicates that the battery is discharging. 
+
+The LED flashes in a sequence of 4 pulses indicating a slight discharge of the battery, up to a sequence of 1 
+pulse, indicating a deep discharge of the battery. 
+
+During normal operation, the LED may start flashing, indicating a slight discharge of the battery. 
+This is normal. The battery manager regularly enters a light discharge/recharge cycle to maximize 
+battery life.
+
+A flash with a sequence of less than 4 flashes therefore indicates either a problem with the battery manager 
+or with the battery, or an absence of 5V power to the timer.

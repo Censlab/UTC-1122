@@ -243,3 +243,5 @@ In the same way, it is possible to view and delete programming steps for a given
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
+
+*This operation will display the second program step corresponding to Thursday and delete it.*

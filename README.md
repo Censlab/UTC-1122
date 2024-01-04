@@ -143,13 +143,13 @@ Generally speaking, the sequence of actions for the creation of an order in any 
  - Time entry (optional)
  - Order selection [ON, OFF, HOUR] (mandatory)
 
+**Note that the time may not have been entered even though the day of the week is entered and therefore 
+it should be the programmed mode. In this case, the time will be automatically recorded at 00h 00m 00s.*
+
 **IMORTANT:**
 The database capacity is 20 program steps. However, at least one step must remain available to be 
 able to make a deferred type request. in fact, this type of request implies a temporary program step 
 in the data base, which will be deleted as soon as the action is carried out.   
-
-**Note that the time may not have been entered even though the day of the week is entered and therefore 
-it should be the programmed mode. In this case, the time will be automatically recorded at 00h 00m 00s.*
 
 **Other considerations regarding the operation of this timer**
 

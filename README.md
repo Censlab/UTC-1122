@@ -256,7 +256,7 @@ At any time, press MEM CLR then MEM CLR again then CLR to confirm.
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
 
-_***Note: pressing the MEM CLR key two times then CLE once is necessary to avoid unintentional 
+_***Note: pressing the MEM CLR key two times then CLR once is necessary to avoid unintentional 
 deletion. Messages shown on the display guide you through this process.**_
 
 ### Other functions.

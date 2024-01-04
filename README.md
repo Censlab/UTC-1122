@@ -231,3 +231,15 @@ In the same way, it is possible to view and delete programming steps for a given
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
 
 *This operation will successively displays the steps for THURSDAY.*
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/6d804e08-e028-4c1f-a3b1-d6fc3f2dab9c)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)

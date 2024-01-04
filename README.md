@@ -152,7 +152,7 @@ it should be the programmed mode. In this case, the time will be automatically r
 
 **IMORTANT:**
 The database capacity is 20 program steps. However, at least one step must remain available to be 
-able to make a deferred type request. in fact, this type of request implies a temporary program step 
+able to make a deferred type request. In fact, this type of request implies a temporary program step 
 in the data base, which will be deleted as soon as the action is carried out.   
 
 **Other considerations regarding the operation of this timer**

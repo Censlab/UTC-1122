@@ -197,3 +197,17 @@ indicates that you have reached the end of the steps recorded for this outing. P
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
 ...
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
+
+To delete a step from the database, simply position it using this method, then press the CLR key.
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/cddd5446-0e74-47b1-ad86-2cac9430faac)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+...
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
+

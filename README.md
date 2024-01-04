@@ -335,6 +335,8 @@ The power and battery management circuit is not mentioned there. This is the typ
 
 ![WCH LINK](/images/battery-manager.png)
 
+('e_goto Processors Store' at AliExpress for example (not afilliate) )
+
 Don't forget to insert a battery into the holder on the IO board and power it with a USB charger for example, 
 otherwise the whole clock will not work.
 

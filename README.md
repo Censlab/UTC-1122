@@ -87,7 +87,7 @@ the fuse and could potentially cause damage to the device.**
 
 ![UTC1122 FRONT ASSEMBLED](/images/UTC1122-Assembled.png)
 
-![UTC1122 IO ASSEMBLED](/images/FINAL-IO.jpg)
+![UTC1122 IO ASSEMBLED](/images/UTC1122-IO.png)
 
 (Not all relays are yet mounted on this board under test)
 

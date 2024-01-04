@@ -211,3 +211,10 @@ To delete a step from the database, simply position it using this method, then p
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
 
+This operation will display the first step found in the database and corresponding to output four and, 
+if this is the step you want to delete, will delete it.
+
+**Note: pressing the CLR key three times is necessary to avoid unintentional deletion. Messages shown 
+on the display guide you through this process.*
+
+In the same way, it is possible to delete programming steps for a given day.

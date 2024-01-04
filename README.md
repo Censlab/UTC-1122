@@ -318,3 +318,13 @@ I suggest you download the MounRiver Studio IDE at this address: http://mounrive
 and use the integrated flashing tool which you just have to configure like this:
 
 ![DOWNLOAD CONFIGURATION](/images/Download-Configuration.png)
+
+Then request download (F8) in the IDE. The process goes smoothly. 
+
+Don't forget to insert a battery into the holder on the IO board and power it with a USB charger for example, 
+otherwise the whole clock will not work.
+
+Preferably program the IO board before the display board otherwise the battery status may not be displayed immediately.
+You will have to wait for a change in the state of the battery manager for its status to be indicated on the display.
+
+Also remember that the relays will not work if the UTC is not connected to 5V via the USB socket.

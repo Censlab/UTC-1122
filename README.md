@@ -330,6 +330,11 @@ and use the integrated flashing tool which you just have to configure like this:
 
 Then request download (F8) in the IDE. The process goes smoothly. 
 
+The BOM directory contains the nomenclature of the components used on the two electronic boards.
+The power and battery management circuit is not mentioned there. This is the type of circuit that can be easily found on the Internet.
+
+![WCH LINK](/images/battery-manager.png)
+
 Don't forget to insert a battery into the holder on the IO board and power it with a USB charger for example, 
 otherwise the whole clock will not work.
 

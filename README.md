@@ -154,7 +154,7 @@ In order to avoid tedious entry of an order which should be repeated every day, 
 Yes, but what if we don't want this order to be executed on Sunday?
 
 In this case, simply schedule a 'cancellation order' on Saturday at the same time, in other words, an OFF order. 
-The OFF order has priority over ON and HOUR. Therefore, the ON order of all days will be canceled by the 
+The OFF order has priority over ON and HOUR. Therefore, the HOUR order of all days will be canceled by the 
 OFF order of Saturday at the same time.
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/cddd5446-0e74-47b1-ad86-2cac9430faac)

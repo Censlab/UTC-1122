@@ -74,8 +74,8 @@ The contacts of each relay are available on a connector whose pinout is as follo
 - NC - Normally closed. Connect your device between this terminal and terminal 'C' to obtain ON > OFF operation 
 ```
 ## Be careful: if you connect elements powered by the electrical network, a voltage of 110Vac or 230Vac is present 
-in the region of the relays. All insulation precautions have been taken on the printed circuits boards but I cannot 
-be responsible for poor handling on your part.
+## in the region of the relays. All insulation precautions have been taken on the printed circuits boards but I cannot 
+## be responsible for poor handling on your part.
 
 This entire timer is powered by 5V via a mini USB connector. This connector is only used for power and does not allow 
 any data exchange with a computer. It is also possible to supply the power through a terminal block but **be careful 

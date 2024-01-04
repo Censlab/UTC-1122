@@ -261,8 +261,7 @@ deletion. Messages shown on the display guide you through this process.**_
 
 ### Other functions.
 
-the EXT KEY
-
+the EXT key 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/5c08de9b-a2d2-4804-9729-5356f51f5c3a)
 
 is used to place the display in minimal mode. In this case, only two segments of the display as well 

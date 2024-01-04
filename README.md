@@ -274,7 +274,7 @@ deletion. Messages shown on the display guide you through this process.**_
 
 The EXT key is used to place the display in minimal mode. In this case, only two segments of the display as well 
 as the battery status are shown. 
-***It is therefore important in this case to place the clock in normal display using the CLK key to view the real state of the outputs.**
+**It is therefore important in this case to place the clock in normal display using the CLK key to view the real state of the outputs.**
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/1a122b0c-c010-4b3a-85cd-8afc59fbf151)
 

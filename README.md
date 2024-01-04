@@ -75,9 +75,7 @@ The contacts of each relay are available on a connector whose pinout is as follo
 ```
 
 ![WARNING](/images/Warning.png)
-
 ### Be careful: if you connect elements powered by the electrical network, a voltage of 110Vac or 230Vac is present in the region of the relays. All insulation precautions have been taken on the printed circuits boards but I cannot be responsible for poor handling on your part.
-
 ![WARNING](/images/Warning.png)
 
 This entire timer is powered by 5V via a mini USB connector. This connector is only used for power and does not allow 

@@ -85,7 +85,11 @@ the fuse and could potentially cause damage to the device.**
 
 ## Finally, here is what this timer looks like once assembled.
 
-![UTC1122 ASSEMBLED](/images/UTC1122-Assembled.png)
+![UTC1122 FRONT ASSEMBLED](/images/UTC1122-Assembled.png)
+
+![UTC1122 IO ASSEMBLED](/images/FINAL-IO.jpg)
+
+(Not all relays are yet mounted on this board under test)
 
 ## And now how does it work?
 

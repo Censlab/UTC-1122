@@ -292,9 +292,19 @@ What is interesting about this device is that the way you learn how to operate i
 instructions that you just need to remember. In fact, a few minutes and a few manipulations allow you 
 to understand how it works. 
 
-Its operation is based on a few reflex gestures to adopt.It is therefore neither necessary to think about 
+Its operation is based on a few reflex gestures to adopt. It is therefore neither necessary to think about 
 how the device works each time you want to use it, nor to struggle with options hidden in complex submenus. 
 It is also not necessary to always have the user manual nearby. 
 
 Before putting this UTC1122 timer into production, handle it, make mistakes and understand them. 
 The UTC1122 will not fail (at least I hope so, I programmed it for that).
+
+# For those who wish to build this UTC 122 by themselves
+
+This device is made up of two specialized electronic boards. 
+The GERBERS files for these two boards are available in the repository.
+The front panel Gerber file is also available.
+
+These two cards are based on RISC-V processors. These processors can be programmed using a specific 
+dongle that can be found inexpensively on the Internet.
+

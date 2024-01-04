@@ -317,3 +317,4 @@ The programming files for both boards in HEX format are also provided in the rep
 I suggest you download the MounRiver Studio IDE at this address: http://mounriver.com
 and use the integrated flashing tool which you just have to configure like this:
 
+![UTC1122 ASSEMBLED](/imagesDownload-Configuration.png)

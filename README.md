@@ -333,3 +333,12 @@ Preferably program the IO board before the display board otherwise the battery s
 You will have to wait for a change in the state of the battery manager for its status to be indicated on the display.
 
 Also remember that the relays will not work if the UTC is not connected to 5V via the USB socket.
+
+# Thanks for watching and...
+
+Any suggestion or comment regarding the operation of this UTC1122 timer as well as the content of this documentation is welcome.
+
+The development of this timer represented a large investment in development time, testing, modification and corrections. 
+I therefore hope that there are no operating problems and that its operation meets your expectations.
+
+## censlab@mailo.com

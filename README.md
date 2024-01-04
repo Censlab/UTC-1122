@@ -216,8 +216,8 @@ To delete a step from the database, simply position it using this method, then p
 *This operation will display the first step found in the database and corresponding to output four and, 
 if this is the step you want to delete, will delete it.*
 
-**Note: pressing the CLR key three times is necessary to avoid unintentional deletion. Messages shown 
-on the display guide you through this process.*
+_***Note: pressing the CLR key three times is necessary to avoid unintentional deletion. Messages shown 
+on the display guide you through this process.**_
 
 In the same way, it is possible to view and delete programming steps for a given day.
 

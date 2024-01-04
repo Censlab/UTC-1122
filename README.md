@@ -307,7 +307,7 @@ available in the repository. The front panel Gerber file is also available.
 These two boards are based on RISC-V processors. These processors can be programmed using a specific 
 dongle that can be found inexpensively on the Internet.
 
-![UTC1122 ASSEMBLED](/images/WCH-Link.png)
+![WCH LINK](/images/WCH-Link.png)
 
 The WCH-LinkE dongle is not needed here. Each electronic board has a location for a dongle connection header. 
 Simply connect the three signals GND, SWDIO and SWCLK. 
@@ -317,4 +317,4 @@ The programming files for both boards in HEX format are also provided in the rep
 I suggest you download the MounRiver Studio IDE at this address: http://mounriver.com
 and use the integrated flashing tool which you just have to configure like this:
 
-![UTC1122 ASSEMBLED](/imagesDownload-Configuration.png)
+!DOWNLOAD CONFIGURATION](/images/Download-Configuration.png)

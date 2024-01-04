@@ -199,6 +199,7 @@ indicates that you have reached the end of the steps recorded for this outing. P
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/ddc2e703-ae76-40ea-9c32-56bc6be4d55c)
 ...
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
+Successively displays the steps for output four
 
 To delete a step from the database, simply position it using this method, then press the CLR key.
 
@@ -217,7 +218,7 @@ if this is the step you want to delete, will delete it.
 **Note: pressing the CLR key three times is necessary to avoid unintentional deletion. Messages shown 
 on the display guide you through this process.*
 
-In the same way, it is possible to delete programming steps for a given day.
+In the same way, it is possible to view and delete programming steps for a given day.
 
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/6d804e08-e028-4c1f-a3b1-d6fc3f2dab9c)
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
@@ -227,3 +228,4 @@ In the same way, it is possible to delete programming steps for a given day.
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/98bc49a9-2ce5-47e2-9de8-ee181f5be5f3)
 ...
 ![image](https://github.com/Censlab/UTC-1122/assets/155535689/04c1e1fe-bbbd-4ff9-8dc7-720ff83d95b3)
+Successively displays the steps for 

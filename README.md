@@ -246,3 +246,14 @@ In the same way, it is possible to view and delete programming steps for a given
 
 _This operation will display the second program step corresponding to Thursday and delete it. 
 Remember that this operation is obviously also possible for the special day **EDAY.**_
+
+### And, to erase the entire database in order to start again with blank programming...
+
+At any time, press MEM CLR then MEM CLR again then CLR to confirm.
+
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/f65979b3-d652-4b0f-b82f-de8785615b76)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/f65979b3-d652-4b0f-b82f-de8785615b76)
+![image](https://github.com/Censlab/UTC-1122/assets/155535689/97385090-9960-4fd9-9d5b-a6ff95e2c82a)
+
+_***Note: pressing the MEM CLR key two times then CLE once is necessary to avoid unintentional 
+deletion. Messages shown on the display guide you through this process.**_
